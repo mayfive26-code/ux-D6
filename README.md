@@ -31,7 +31,7 @@ ai-content-template
 
 ## 課堂範例圖片網址
 
-如果課堂中暫時找不到合適圖片，可以先使用以下範例網址練習。這些網址可以直接放入 `features` 的 `imageUrl` 欄位：
+如果課堂中暫時找不到合適圖片，你可以先使用以下範例網址練習。這些網址可以直接放入 `features` 的 `imageUrl` 欄位：
 
 ```text
 圖片 1：https://images.unsplash.com/photo-1516321318423-f06f85e504b3?auto=format&fit=crop&w=900&q=80
